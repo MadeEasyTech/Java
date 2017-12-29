@@ -63,6 +63,7 @@ public class simple_frame {
 		// TODO Auto-generated method stub
 
 		login one=new login();
+		System.out.println("hi i m here");
 		
 	}
 
